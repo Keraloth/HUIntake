@@ -1,6 +1,6 @@
 
 zuivel = ["Kaas", "Melk", "Zuivelspread"]
-groenten = ["Prei", "Broccoli", "Tomaat", "Ui"]
+groenten = ["Prei", "Broccoli", "Tomaat", "Ui", "Bloed"]
 
 zuivel.append ("Volle Melk")
 groenten.append ("Aardbeien")
