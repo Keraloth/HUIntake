@@ -1,5 +1,3 @@
-#save the file as assignment02yourlastname.py
-
 Vakantiepaklijst = ["tandenborstel", "paspoort", "handdoek", "zonnebril"]
 print(Vakantiepaklijst)
 
@@ -24,7 +22,7 @@ if(hoeveelheid_tasks_vakantiepaklijst <= 4):
     print("You can add more tasks")
 
 if(hoeveelheid_tasks_vakantiepaklijst == 6):
-    task_2= input("Which task would you like remove?")
+    task_2= input("Which task would you like to remove?")
     Vakantiepaklijst.remove(task_2)
 print(Vakantiepaklijst)
 print("Good luck with packing!")
